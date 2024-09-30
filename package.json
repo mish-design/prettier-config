@@ -1,0 +1,35 @@
+{
+  "name": "@mish.dev/prettier",
+  "version": "1.0.0",
+  "description": "Mish config for prettier, format your projects, like we do this!",
+  "main": "index.js",
+  "type": "module",
+  "private": "false",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "format": "prettier --write ./example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mish-design/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "cummunity",
+    "code",
+    "formatting",
+    "company"
+  ],
+  "author": "rstp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mish-design/prettier-config/issues"
+  },
+  "homepage": "https://github.com/mish-design/prettier-config#readme",
+  "dependencies": {
+    "prettier": "^3.3.3"
+  }
+}

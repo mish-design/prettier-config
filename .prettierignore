@@ -1,0 +1,12 @@
+.idea
+dist
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+.github
+build
+.eslintrc.json
+.dockerignore
+*.yaml
+*.env

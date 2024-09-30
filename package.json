@@ -4,7 +4,6 @@
   "description": "Mish config for prettier, format your projects, like we do this!",
   "main": "index.js",
   "type": "module",
-  "private": "false",
   "publishConfig": {
     "access": "public"
   },

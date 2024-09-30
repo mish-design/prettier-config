@@ -1,10 +1,9 @@
 {
   "name": "@mish.dev/prettier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mish config for prettier, format your projects, like we do this!",
   "main": "index.js",
   "type": "module",
-  "private": false,
   "publishConfig": {
     "access": "public"
   },

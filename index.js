@@ -17,5 +17,6 @@ export default {
   requirePragma: false,
   useTabs: false,
   embeddedLanguageFormatting: "auto",
-  tabWidth: 2
+  tabWidth: 2,
+  endOfLine: "auto"
 }
